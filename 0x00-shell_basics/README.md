@@ -1,0 +1,16 @@
+Function of each script in this directory
+- 0-current_working_directory: shows the absolute path name of the current working directory.
+- 1-listit: display the contents of the current directory.
+- 2-bring_me_home: changes the working directory to the user’s home directory.
+- 3-listfiles: display the contents of the current working directory in a long format.
+- 4-listmorefiles: display contents of the current directory including hidden files in the long format.
+- 5-listfilesdigitonly: display contents of the current directory in Long format; with user and group IDs displayed numerically; and hidden files.
+- 6-firstdirectory: creates a directory in a directory.
+- 7-movethatfile: moves a file from one directory to another.
+- 8-firstdelete: deletes a file from a directory.
+- 9-firstdirdeletion: deletes a directory in another directory.
+- 10-back: changes the current working directory to the previous one.
+- 11-lists:  lists all files including hidden files in the current directory, the parent of the working directory, and the /boot directory; in the long format.
+- 12-file_type:  displays the type of the file.
+- 13-symbolic_link: creates a symbolic link  in the current working directory.
+- 14-copy_html: copies all the HTML files from the current working directory to the parent of the working directory.
